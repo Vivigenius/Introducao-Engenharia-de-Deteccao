@@ -77,6 +77,25 @@ Colaborações em equipe: o uso de fluxos de trabalho de CI / CD elimina o isola
 Reutilização de código: com os padrões de detecção surgindo ao longo do tempo, os engenheiros podem reutilizar o código para executar funções semelhantes em diferentes detecções, garantindo que o processo de detecção avance mais rápido, pois não haverá necessidade de começar do início.
 ![image](https://github.com/user-attachments/assets/5869a748-ecf6-4f75-ba29-8640087874ab)
 
+RESPOSTAS DA TAREFA 2
+![image](https://github.com/user-attachments/assets/7d2f5e69-e3f7-4cc2-9d4f-c8e2fc86d339)
+EXPLICAÇÃO: Essa detecção usa o conhecimento atual do ambiente conhecido para identificar desalinhamentos, como explicado no texto acima.
+|
+|
+![image](https://github.com/user-attachments/assets/fdf35103-31c6-4ec5-a3bb-e66559ce39d1)
+EXPLICAÇÃO: Modelagem (modeling) é a resposta correta, pois a detecção envolve a criação de um perfil de ativos ou atividades para estabelecer uma linha de base e detectar quaisquer desvios que possam indicar atividade maliciosa.
+|
+|
+![image](https://github.com/user-attachments/assets/ee2a8a3b-d2e3-45f4-a3f5-d96ee650789c)
+EXPLICAÇÃO: Threat Behaviour está relacionado ao uso de táticas, técnicas e procedimentos (TTPs) do adversário, e pode ser facilmente integrado com playbooks defensivos e planos de remediação automatizados.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tarefa 3
+
+
+Metodologias de Engenharia de Detecção
+
 
 
 
